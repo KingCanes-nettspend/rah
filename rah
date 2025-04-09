@@ -3,11 +3,7 @@ local window = library:AddWindow("HELL clan Script by darkiller", { main_color =
 
 -- Whitelist system using usernames
 local whitelist = {
-    "Quiraz29", 
-    "Shadow_RipperZ0",
-    "HoloGrindz",
-    "Xxdarkiller_10ZKT2",
-    "TARZANfeio",
+    "Daonly_me2",
 }
 
 local player = game.Players.LocalPlayer
